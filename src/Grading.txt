@@ -1,0 +1,6 @@
+Extra Credit:		0/10
+
+Correct Output:		0/5
+Consistent Style: 	0/2
+Optimal Efficiency:	0/2
+Good Comments:		0/1
